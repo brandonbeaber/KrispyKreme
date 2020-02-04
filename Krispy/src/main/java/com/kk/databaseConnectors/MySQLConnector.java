@@ -22,7 +22,7 @@ public class MySQLConnector {
 	public void performConnection() {		
 		String url = "jdbc:mysql://127.0.0.1:3306/kk";
 		String username = "root";
-		String password = "Bruce337!!!";
+		String password = "rue!!!";
 		
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
